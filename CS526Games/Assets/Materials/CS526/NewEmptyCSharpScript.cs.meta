@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebab5ddc13956f34282a65f3e881e33c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boardGroup: {instanceID: 0}
+  - classGroup: {instanceID: 0}
+  - reportGroup: {instanceID: 0}
+  - blackboardText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
